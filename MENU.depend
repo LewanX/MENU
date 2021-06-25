@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1624561765 source:c:\users\alan\desktop\menu\menu\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"rlutil.h"
+	"funciones.h"
+
+1571584339 c:\users\alan\desktop\menu\menu\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1275488132 c:\users\alan\desktop\menu\menu\funciones.h
+	<windows.h>
+
+1624584613 source:c:\users\alan\desktop\cosas c++\menu\menu\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+	"rlutil.h"
+	"funciones.h"
+
+1624583407 c:\users\alan\desktop\cosas c++\menu\menu\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1275488132 c:\users\alan\desktop\cosas c++\menu\menu\funciones.h
+	<windows.h>
+
